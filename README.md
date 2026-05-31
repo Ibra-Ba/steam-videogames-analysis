@@ -16,15 +16,14 @@ that influence game popularity and sales.
 ### Notebook 1 — Global Market Analysis
 Covers macro-level analysis, genre analysis, and platform analysis.
 
-> 📎 Databricks published URL: <!-- ADD URL HERE -->
-
+> 📎 Databricks published URL: [https://dbc-dc9ab534-89e4.cloud.databricks.com/editor/notebooks/206812939310343?o=4359258060611116] 
 ### Notebook 2 — Popularity & Sales Factors
 Identifies and quantifies the factors driving game popularity and estimated
 sales using the Boxleiter method.
 
-> 📎 Databricks published URL: <!-- ADD URL HERE -->
+> 📎 Databricks published URL: [https://dbc-dc9ab534-89e4.cloud.databricks.com/editor/notebooks/2837560666121411?o=4359258060611116]
 
----
+
 
 ## Key Findings
 
@@ -54,10 +53,3 @@ sales using the Boxleiter method.
 | Age restriction | "Under 16" (AAA titles) dominates — age rating reflects game type, not potential |
 
 ---
-
-Notebooks can be viewed at:
-notebook1:
-https://dbc-dc9ab534-89e4.cloud.databricks.com/editor/notebooks/206812939310343?o=4359258060611116
-
-notebook2:
-https://dbc-dc9ab534-89e4.cloud.databricks.com/editor/notebooks/2837560666121411?o=4359258060611116
